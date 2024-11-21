@@ -1,0 +1,1 @@
+Lesson 1 : i)Created basic Structure for Todo App,created basic model class, Repository,CustomExceptionHandler,RestController.
